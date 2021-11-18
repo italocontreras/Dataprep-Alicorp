@@ -12,6 +12,7 @@
 
 Dataprep de Trifacta es un servicio inteligente de datos que permite limpiar, preparar y explorar de manera visual datos estructurados y sin estructurar para el análisis, la elaboración de informes y el aprendizaje automático. 
 
+![Overview](img/overview.png "Overview")
 
 
 ## Features
